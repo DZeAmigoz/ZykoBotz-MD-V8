@@ -89,7 +89,6 @@
         "url-regex-safe": "^3.0.0",
         "xfarr-api": "^1.0.3",
         "yargs": "^17.3.1",
-        "yt-search": "latest",
         "zs-extract": "^1.4.1"
     }
 }
