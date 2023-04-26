@@ -44,36 +44,36 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH' // group whatsapp
+global.sgh = 'https://github.com/DZeAmigoz' // github
+global.sgc = 'https://chat.whatsapp.com/Iq67rkTp8iAwiVvLOFAYH' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://youtu.be/E1Cb97Rb-8U' // my youtube channel
+global.snh = 'https://youtu.be/' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/@ZykoBotzMD'
-global.tik = 'https://www.tiktok.com/@zykosiapa' 
+global.syt = 'https://www.youtube.com/@PuanPresiden2024'
+global.tik = 'https://www.tiktok.com/@Banteng' 
 global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
 global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
-global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
+global.pdana = '085219464542' //dana
+global.povo = 'Gak punya' //ovo
+global.pgopay = 'gak punya' //gopay
+global.plinkaja = '085219464542' //link aja
+global.ppulsa = '083861555179' //telkomsel
+global.ppulsa2 = '085219464542' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
+global.nomorbot = '6283861555179'
+global.nomorown = '6285219464542'
+global.nomorown1 = '6285219464542' //pake No Pacar lo Juga Boleh
+global.namebot = 'RAMZBOTZ WANGSAF'
+global.nameown = 'RAMZ'
+global.nameown1 = 'RAMA' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/dvolkerss' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/gakpunyanjink' // ig cewek lo
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
 global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
@@ -82,7 +82,7 @@ global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['6285219464542', 'RAMZBOTZ', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -93,23 +93,23 @@ global.mods = []
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = 'ZYKOBOTZ MD'//nama group kalian
+global.gcname = 'RAMZBOTZ'//nama group kalian
 global.readMore = readMore
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZYKOBOTZ MD '
+global.wm = '                「 RAMZBOTZ WANGSAF 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RAMZBOTZ WANGSAF ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ RAMZBOTZ WANGSAF '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By RAMZ`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 ZYKOBOTZ MD  あ」'
+global.author = '              「 RAMZBOTZ WANGSAF  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickpack = 'RAMZBOTZ WANGSAF'
+global.stickauth = `By ©RAMZBOTZ WANGSAF`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg' 
